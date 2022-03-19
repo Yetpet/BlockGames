@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "String operations.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"BlockGames_Task3/yetpetnft_flat.sol": "Strings"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"BlockGames_Task3/yetpetnft_flat.sol": {
+			"keccak256": "0xd1747a4c0aaae6241d670c086ce711b46ec661db3f46097e3895d9e70059b7d7",
+			"urls": [
+				"bzz-raw://dc936cd87f8dfa044064d1ca7a4dc8c3b3a440ff629750b49ce172e2e45b8194",
+				"dweb:/ipfs/QmY5pRgqehkp29EixTaBjtoYA6nNkLD5Lw6tgTyYgHFB5n"
+			]
+		}
+	},
+	"version": 1
+}
